@@ -1,0 +1,3 @@
+/Users/Sirbor/CLionProjects/Mean-Variance/cmake-build-debug/CMakeFiles/Mean_Variance.dir
+/Users/Sirbor/CLionProjects/Mean-Variance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Sirbor/CLionProjects/Mean-Variance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
